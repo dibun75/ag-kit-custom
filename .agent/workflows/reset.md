@@ -18,7 +18,9 @@ When `/reset` is triggered, you MUST execute the following steps:
 
 2. **Re-orient to the Codebase**
    - Read the output of the script carefully to understand the current `git status` and recent commits.
-   - Use your file viewing tools to read the `README.md` and `ARCHITECTURE.md` (if they exist) to re-familiarize yourself with the core project.
+   - Actively explore the codebase: Use your directory listing tools to map out the current structure of `lib/` and other key folders.
+   - Read core documentation (like `README.md` or `ARCHITECTURE.md`) but *do not trust them blindly*. Verify the actual code structure yourself.
+   - Wait for the user to state their next goal, then read the specific files required for that task.
 
 3. **Acknowledge**
    - Tell the user how much space was cleared (if observable).
