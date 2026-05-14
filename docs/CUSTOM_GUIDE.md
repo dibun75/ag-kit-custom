@@ -36,6 +36,7 @@ These are our internally developed skills tailored for specific requirements:
 
 * **`app-store-deployment`** (Skill): Manages `Info.plist`, `AndroidManifest`, versioning, and privacy requirements for App Store Connect & Google Play Console submissions.
 * **`mobile-monetization`** (Skill): Manages strict RevenueCat configuration and AdMob platform locking (ensuring iOS/Android ad unit IDs are mapped dynamically).
+* **`context-reset`** (Skill) & **`/reset`** (Workflow): Cleans up disk-hogging `.gemini` AI artifacts and resets the AI's internal context to the source code truth.
 * **`/publish-mobile`** (Workflow): An interactive, step-by-step checklist workflow designed to guide you through the multi-day mobile deployment and review lifecycle.
 
 ---
@@ -56,6 +57,7 @@ These are our internally developed skills tailored for specific requirements:
 | `code-review-checklist` | Code review guidelines covering code quality, security, and best practices. |  |
 | `code-review-graph` | Token-efficient code review using Tree-sitter AST graphs and MCP. Reduces AI assistant token usage by 6.8–49x by computing blast radius of changes instead of reading entire codebases. Uses SQLite graph database for structural analysis. |  |
 | `context-compression` | Manage and compress conversation context in long sessions. Detect when context is growing large, summarize completed work phases, archive old findings while preserving key decisions. Prevents context degradation. |  |
+| `context-reset` | Hard reset for AI context and disk cleanup of heavy artifacts in .gemini directory. | ✅ |
 | `coordinator-mode` | Advanced multi-agent orchestration with parallel workers, synthesis protocols, and coordinator lifecycle. Use when complex tasks require multiple agents working in parallel with intelligent result synthesis. |  |
 | `database-design` | Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases. |  |
 | `deployment-procedures` | Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts. |  |
