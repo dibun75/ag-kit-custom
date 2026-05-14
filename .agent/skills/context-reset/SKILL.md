@@ -20,7 +20,7 @@ You should trigger the `/reset` workflow to clear this state.
 When triggered, the AI will:
 1. Run `nuke_cache.sh` to physically delete heavy folders from the `brain` directory.
 2. Read the Git status and recent commit log.
-3. Review `ARCHITECTURE.md` or `README.md` to re-orient.
+3. Actively scan the codebase directory structure and verify files to re-orient accurately.
 
 ### Scripts
 
