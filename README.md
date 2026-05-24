@@ -1,10 +1,16 @@
-# AG Kit
+<p align="center">
+  <img src="/web/public/images/logo.png" width="128" height="128" alt="AGKIT">
+</p>
 
-> AI Agent templates with Skills, Agents, and Workflows — now with Coordinator Mode, Persistent Memory, and Context Compression
+<h1 align="center">AG KIT</h1>
+
+<p align="center">
+    AI Agent templates with Skills, Agents, and Workflows — now with Coordinator Mode, Persistent Memory, and Context Compression
+</p>
 
 <div  align="center">
     <a href="https://unikorn.vn/p/antigravity-kit?ref=unikorn" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/antigravity-kit?theme=dark" alt="AG Kit - Nổi bật trên Unikorn.vn" style="width: 210px; height: 54px;" width="210" height="54" /></a>
-    <a href="https://unikorn.vn/p/antigravity-kit?ref=unikorn" target="_blank"><img src="https://unikorn.vn/api/widgets/badge/antigravity-kit/rank?theme=dark&type=daily" alt="AG Kit - Hàng ngày" style="width: 250px; height: 64px;" width="250" height="64" /></a>
+    <a href="https://trendshift.io/repositories/21490" target="_blank"><img src="https://trendshift.io/api/badge/repositories/21490" alt="vudovn%2Fantigravity-kit | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
     <a href="https://launch.j2team.dev/products/antigravity-kit" target="_blank"><img src="https://launch.j2team.dev/badge/antigravity-kit/dark" alt="AG Kit on J2TEAM Launch" width="250" height="54" /></a>
 </div>
 
@@ -280,6 +286,9 @@ Key patterns distilled:
 <p align="center">
   <img src="https://img.vietqr.io/image/mbbank-0779440918-compact.jpg" alt="Buy me coffee" width="200" />
 </p>
+
+
+CA: Gjpatn3d24dCRhUng7F37K6xJba4R8SDBC18xs1Apump
 
 ## License
 
